@@ -1,4 +1,4 @@
 # shipwire-CMS-integration
-PHP Module for Shipwire
+PHP e-commerce module for Shipwire (http://www.shipwire.com) and its various services including inventory, order fulfillment (sales), shipping, tracking, and returns.
 
-For use with Drupal Commerce; customizable for various PHP-based CMS implementations. 
+For use with Drupal Commerce out of the box, and Ubercart with some slight mods; customizable for various PHP-based CMS implementations in general.
